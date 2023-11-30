@@ -1,0 +1,4 @@
+com/example/testcontainers/demo/DemoApplication.class
+com/example/testcontainers/demo/player/PlayerController.class
+com/example/testcontainers/demo/player/Player.class
+com/example/testcontainers/demo/player/PlayerRepository.class
